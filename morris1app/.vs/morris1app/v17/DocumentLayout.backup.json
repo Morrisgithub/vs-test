@@ -48,7 +48,11 @@
               "RelativeDocumentMoniker": "morris1\\Program.cs",
               "ToolTip": "C:\\Users\\vurob\\vs-test\\morris1app\\morris1\\Program.cs",
               "RelativeToolTip": "morris1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+>>>>>>> 57dae30f18a7f089748023263bf7bb52ebe2a023
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:03:30.826Z",
               "EditorCaption": ""
